@@ -14,4 +14,11 @@ installation :
 
 others : `curl https://sh.rustup.rs -sSf | sh`
 
-thens
+then :
+```sh
+    make install
+```
+to uninstall :
+```sh
+    make uninstall
+```
